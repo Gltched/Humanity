@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(10, 10, 10);
+}
+
+#main-title {
+    text-align: center;
+    color: rgb(150, 200, 150);
+    font-family: 'STIX Two Math', serif;
+    font-size: 48px;
+    margin-top: 0;
+    padding-top: 0;
+}
+
+#main-subtitle {
+    color: rgb(125, 200, 125);
+}
